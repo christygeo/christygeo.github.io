@@ -22,7 +22,7 @@ repository               : "christygeo/christygeo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pro_pic.jpg"
+  avatar           : "pro_pic.jpg"
   name             : "Christy George"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
